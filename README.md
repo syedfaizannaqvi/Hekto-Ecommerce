@@ -1,3 +1,36 @@
+Hekto - Ecommerce UI / UX Design
+This UI /UX hackation task was assgined by me as a Student from Governor Sindh Initiative of AI (GENAI). In this hackathon we have to create a nextjs website design by following figma design available here. View Figma Design[(https://www.figma.com/design/nQRWTYx1mzo8Px9qqBG6Cp/Project---Ecom-(An-Ecommerce-Ui-Kit)-(Community)-(Copy)?node-id=96-1&node-type=frame&t=rBiL9gARMnEoiIuw-0)]
+
+This web page contain about 15 different pages mentioned below with link
+
+Home - /
+Shop Grid - /shop
+Shop List - /shop/grid
+Shop Sidebar - /shop/sidebar
+About - /about
+Contact - /contact
+Blog - /blog
+Single Blog - /blog/slug
+Cart - /cart
+Checkout - /payment
+Order Completion - /order-completed
+Contact - /contact
+Login - /login
+Product - /product/slug
+FAQ - /faq
+You can run this project by just cloning it
+
+git clone https://github.com/sarfarazunarr/hekto-ecommerce.git
+Go to directory
+
+cd hekto
+Install Packages
+
+npm install
+Run
+
+npm run dev
+I will add more things in it currently it has low number of images.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
